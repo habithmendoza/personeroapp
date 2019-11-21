@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/personeroapp/static/css/main.cc3e2925.chunk.css",
+    "main.js": "/personeroapp/static/js/main.8993e08d.chunk.js",
+    "main.js.map": "/personeroapp/static/js/main.8993e08d.chunk.js.map",
+    "runtime-main.js": "/personeroapp/static/js/runtime-main.165c5f59.js",
+    "runtime-main.js.map": "/personeroapp/static/js/runtime-main.165c5f59.js.map",
+    "static/js/2.2e7c160b.chunk.js": "/personeroapp/static/js/2.2e7c160b.chunk.js",
+    "static/js/2.2e7c160b.chunk.js.map": "/personeroapp/static/js/2.2e7c160b.chunk.js.map",
+    "index.html": "/personeroapp/index.html",
+    "precache-manifest.a4d680c8dc47987fe51e33a7e2020536.js": "/personeroapp/precache-manifest.a4d680c8dc47987fe51e33a7e2020536.js",
+    "service-worker.js": "/personeroapp/service-worker.js",
+    "static/css/main.cc3e2925.chunk.css.map": "/personeroapp/static/css/main.cc3e2925.chunk.css.map",
+    "static/media/index.css": "/personeroapp/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/ModalVote.css": "/personeroapp/static/media/close.c4a04ae8.svg",
+    "static/media/img1.png": "/personeroapp/static/media/img1.bb36327e.png",
+    "static/media/img2.png": "/personeroapp/static/media/img2.cb106d10.png",
+    "static/media/img3.png": "/personeroapp/static/media/img3.cdaa61dc.png",
+    "static/media/thank.png": "/personeroapp/static/media/thank.f0877bf6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.165c5f59.js",
+    "static/js/2.2e7c160b.chunk.js",
+    "static/css/main.cc3e2925.chunk.css",
+    "static/js/main.8993e08d.chunk.js"
+  ]
+}
