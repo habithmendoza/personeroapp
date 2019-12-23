@@ -1,5 +1,4 @@
-# personeroapp
-Aplicación para elecciones de personeros  en instituciones educativas.
+# Personero App
 
 ![](https://raw.githubusercontent.com/habithmendoza/personeroapp/master/personeroapp-1.jpg)
 
